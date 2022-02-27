@@ -4,7 +4,6 @@ import com.translatelanguage.micoservice.demo.entity.HistoryEntity;
 import com.translatelanguage.micoservice.demo.service.HistoryEntityService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
-import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.rmi.ServerException;
